@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+<header>
+  <p>app.vue page</p>
+</header>
 </template>
